@@ -1,4 +1,5 @@
 {
   "cSpell.words": ["Luanti", "Wardy"],
-  "git.branchProtection": []
+  "git.branchProtection": [],
+  "Lua.diagnostics.globals": ["core"]
 }
